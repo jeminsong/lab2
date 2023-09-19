@@ -1,0 +1,11 @@
+{
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    
+    "files.exclude": {
+        "**/.??*": true,
+        "**/*.d": true,
+        "**/*.o": true,
+        "**/check_formatting": true,
+    }
+}
+
