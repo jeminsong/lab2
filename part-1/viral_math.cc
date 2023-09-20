@@ -1,12 +1,12 @@
 // Jemin Song
 // jeminsong@csu.fullerton.edu
-// @jeminsong0119
-// Partners: @jeminsong0119
+// @jeminsong
+// Partners: @jeminsong
 
 // Jemin Song
 // jeminsong@csu.fullerton.edu
-// @jeminsong0119
-// Partners: @jeminsong0119
+// @jeminsong
+// Partners: @jeminsong
 
 #include <iostream>
 int main(int argc, char const *argv[]) {
