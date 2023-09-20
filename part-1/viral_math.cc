@@ -1,7 +1,7 @@
 // jeminsong
 // jeminsong0119@csu.fullerton.edu
 // @jeminsong0119
-// partners:
+// partners:self
 
 #include <iostream>
 int main(int argc, char const *argv[]) {
