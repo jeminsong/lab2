@@ -1,13 +1,12 @@
 // jeminsong
 // jeminsong0119@csu.fullerton.edu
 // @jeminsong0119
-// partners: @self
+// partners: @jeminsong0119
 
-// self
+// jeminsong
 // jeminsong0119@csu.fullerton.edu
 // @jeminsong0119
 // partners: @jeminsong0119
-
 #include <iostream>
 int main(int argc, char const *argv[]) {
   // Declare an integer variable. Name the variable solution and
