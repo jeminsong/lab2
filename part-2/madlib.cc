@@ -48,7 +48,7 @@ int main(int argc, char const *argv[]) {
     std::cout << "\n";
     std::cout << "Computers are small enough to fit into a "
               << singular_noun << ".\n";
-    std::cout << "Computers can add, multiply, divide "
+    std::cout << "Computers can add, multiply, divide, and "
               << present_tense_verb << ".\n";
     std::cout << "People can "
               << present_tense_verb
